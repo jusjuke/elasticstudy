@@ -1,0 +1,6 @@
+server:
+  port: 8001
+spring:
+  devtools:
+    livereload:
+      enabled: true      
